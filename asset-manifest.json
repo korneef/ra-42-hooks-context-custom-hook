@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-42-hooks-context-custom-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/ra-42-hooks-context-custom-hook/static/js/main.f0acac0d.js",
+    "static/js/787.b614f34c.chunk.js": "/ra-42-hooks-context-custom-hook/static/js/787.b614f34c.chunk.js",
+    "index.html": "/ra-42-hooks-context-custom-hook/index.html",
+    "main.e6c13ad2.css.map": "/ra-42-hooks-context-custom-hook/static/css/main.e6c13ad2.css.map",
+    "main.f0acac0d.js.map": "/ra-42-hooks-context-custom-hook/static/js/main.f0acac0d.js.map",
+    "787.b614f34c.chunk.js.map": "/ra-42-hooks-context-custom-hook/static/js/787.b614f34c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f0acac0d.js"
+  ]
+}
